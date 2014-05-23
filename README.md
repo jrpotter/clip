@@ -4,7 +4,7 @@ Clip Plugin
 [Version 1.0.0 - 12/16/2013]
 
 A simple Chrome plugin for easily extracting HTML from highlighted region.
-This method is more accurate than opening the console, finding the element,
+This method is a shortcut to opening the console, finding the desired section
 and highlighting/copying the corresponding HTML.
 
 
